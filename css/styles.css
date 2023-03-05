@@ -236,6 +236,7 @@ margin-bottom: 72px;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    text-decoration: none;
 
 }
 
