@@ -242,6 +242,7 @@ margin-bottom: 72px;
 
 .menu-portfolio-item{
 flex-basis: calc(100%-48px)/3;
+text-decoration: none;
 }
 
 .menu-portfolio-link:hover,
